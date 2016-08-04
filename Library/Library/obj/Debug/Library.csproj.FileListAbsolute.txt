@@ -1,0 +1,14 @@
+e:\users\wxn\documents\visual studio 2012\Projects\Library\Library\bin\Debug\Library.exe.config
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\bin\Debug\Library.exe
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\bin\Debug\Library.pdb
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.Form1.resources
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.Form2.resources
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.Form3.resources
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.Form4.resources
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.Form5.resources
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.Form6.resources
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.Properties.Resources.resources
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.exe
+E:\users\wxn\documents\visual studio 2012\Projects\Library\Library\obj\Debug\Library.pdb
